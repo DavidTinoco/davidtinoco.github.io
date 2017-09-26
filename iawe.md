@@ -4,6 +4,6 @@ layout: default
 
 ## Implantación de una aplicación web estática en Github Pages
 
-_yay_
+Para creación de ésta página en GitHubPages hemos 
 
 [Atras](./)

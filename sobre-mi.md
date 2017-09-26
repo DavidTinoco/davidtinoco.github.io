@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Yo](./images/profile.jpg){:style="float: right;width:35%"}
+![Yo](./images/profile.jpg){:style="float: right;width:40%"}
 
 <dl>
 <dt>Nombre</dt>
